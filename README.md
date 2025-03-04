@@ -1,3 +1,5 @@
+**Samuel Vasco González**
+
 # Chatbot de Asistencia Financiera con RAG y Llama 3.2
 
 Este proyecto implementa un chatbot de asistencia financiera utilizando técnicas de **Retrieval-Augmented Generation (RAG)** y el modelo de lenguaje **Llama 3.2**. El chatbot está diseñado para responder preguntas sobre los productos y servicios de **Tuya S.A.**, como tarjetas de crédito y Credicomrpas (créditos no rotativos para uso dentro del retail).
