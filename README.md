@@ -50,8 +50,8 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/tuya-chatbot.git
-   cd tuya-chatbot```
+   git clone https://github.com/tu-usuario/tuya_chatbot.git
+   cd tuya_chatbot```
 
 2. **Crea un entorno virtual**:
 
@@ -66,4 +66,4 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
     main.py llama todas las funciones desde el web scraping hasta la ocnfiguración del modelo LLM con RAG. Ademas, imprime en pantalla la respuesta a las 2 preguntas de la prueba.
 
-    Adicionalmente en el notebook **prueba_ejecucion_main.ipynb** se importa la funcion $main$ de ``main.py`` para hacerle preguntas adicionales al chatbot.
+    Adicionalmente en el notebook **prueba_ejecucion_main.ipynb** se importa la funcion $main$ de ``main.py`` para probar el modelo y hacer preguntas adicionales al chatbot.
