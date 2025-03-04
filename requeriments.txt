@@ -1,0 +1,6 @@
+bs4==0.0.2
+requests==2.32.3
+langchain-community==0.3.18
+re==2.2.1
+transformers==4.49.0
+torch==2.1.0+cu118
